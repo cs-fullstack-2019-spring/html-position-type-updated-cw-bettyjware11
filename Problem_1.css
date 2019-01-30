@@ -1,0 +1,29 @@
+* {
+    background: gray;
+    /*display: block;*/
+    border: 1px solid white;
+    /*!*padding: 24px 15px 24px;*!*/
+    text-align: center;
+
+}
+
+section {
+    /*display: block;*/
+    float: left;
+    margin: 0 1.5%;
+    width: 63%;
+    position: relative;
+
+
+}
+aside {
+    float: right;
+    margin: 0 1.5%;
+    width: 30%;
+
+}
+
+footer {
+
+
+}
